@@ -1,0 +1,11 @@
+*.swp
+*.swo
+*.bak
+*.xz
+*~
+.env
+/.venv/
+*.sqlite3
+
+# PyCharm
+.idea/
